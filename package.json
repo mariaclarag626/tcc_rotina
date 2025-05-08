@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "@plasmicapp/loader": "^0.0.59",
+    "@plasmicapp/react-web": "^0.2.384",
     "body-parser": "^2.2.0",
     "cors": "^2.8.5",
     "express": "^5.1.0",
